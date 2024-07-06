@@ -9,7 +9,7 @@
 // Project Name: suda_cpu
 // Target Devices: 
 // Tool Versions: 
-// Description: 取指阶段取出指令存储器中的指令，同时PC值递增，准备取下一条指令，包括PC、IF/ID两个模块
+// Description: 取指阶段取出指令存储器中的指令，同时PC值递增，准备取下一条指令，包括PC、IF/ID两个模块，相当于只是做了个指令缓存打拍
 // 
 // Dependencies: 
 // 

@@ -1,3 +1,23 @@
+//////////////////////////////////////////////////////////////////////////////////
+// Company: siom
+// Engineer: chenshuda
+// 
+// Create Date: 2024/07/06 12:48
+// Design Name: 
+// Module Name: defines
+// Project Name: suda_cpu
+// Target Devices: 
+// Tool Versions: 
+// Description: 全局变量的定义
+// 
+// Dependencies: 
+// 
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+// 
+//////////////////////////////////////////////////////////////////////////////////
+
 //全局
 `define RstEnable                   1'b1
 `define RstDisable                  1'b0
